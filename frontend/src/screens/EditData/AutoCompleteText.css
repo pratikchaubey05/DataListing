@@ -1,0 +1,34 @@
+.FixedHeightContainer {
+  position: absolute;
+  float: left;
+  margin-top: 3px;
+  height: 145px;
+  width: 87%;
+  border-style: solid;
+  border-width: thin;
+  border-color: #d3d3d3;
+}
+.Content {
+  height: 142px;
+  overflow: auto;
+  background: #fff;
+  border: 0;
+  text-align: left;
+  border-color: black;
+}
+
+.auto-buttons {
+  border: 0px;
+  margin-top: 2px;
+  margin-left: 5px;
+  background-color: white;
+}
+
+.hr-auto {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+.dataBody {
+  margin-top: 30px;
+}
